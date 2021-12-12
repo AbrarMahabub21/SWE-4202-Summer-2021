@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\OOP_200042103\lab_02\lab_02\bin\Debug\lab_02.exe.config
+C:\Users\Asus\Desktop\OOP_200042103\lab_02\lab_02\bin\Debug\lab_02.exe
+C:\Users\Asus\Desktop\OOP_200042103\lab_02\lab_02\bin\Debug\lab_02.pdb
+C:\Users\Asus\Desktop\OOP_200042103\lab_02\lab_02\obj\Debug\lab_02.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\OOP_200042103\lab_02\lab_02\obj\Debug\lab_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\OOP_200042103\lab_02\lab_02\obj\Debug\lab_02.Form1.resources
+C:\Users\Asus\Desktop\OOP_200042103\lab_02\lab_02\obj\Debug\lab_02.Properties.Resources.resources
+C:\Users\Asus\Desktop\OOP_200042103\lab_02\lab_02\obj\Debug\lab_02.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\OOP_200042103\lab_02\lab_02\obj\Debug\lab_02.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\OOP_200042103\lab_02\lab_02\obj\Debug\lab_02.exe
+C:\Users\Asus\Desktop\OOP_200042103\lab_02\lab_02\obj\Debug\lab_02.pdb
