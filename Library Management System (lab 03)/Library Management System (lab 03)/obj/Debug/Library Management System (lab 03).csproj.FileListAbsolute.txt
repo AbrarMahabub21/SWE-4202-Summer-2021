@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\OOP_200042103\Library Management System (lab 03)\Library Management System (lab 03)\bin\Debug\Library Management System (lab 03).exe.config
+C:\Users\Asus\Desktop\OOP_200042103\Library Management System (lab 03)\Library Management System (lab 03)\bin\Debug\Library Management System (lab 03).exe
+C:\Users\Asus\Desktop\OOP_200042103\Library Management System (lab 03)\Library Management System (lab 03)\bin\Debug\Library Management System (lab 03).pdb
+C:\Users\Asus\Desktop\OOP_200042103\Library Management System (lab 03)\Library Management System (lab 03)\obj\Debug\Library Management System (lab 03).csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\OOP_200042103\Library Management System (lab 03)\Library Management System (lab 03)\obj\Debug\Library Management System (lab 03).csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\OOP_200042103\Library Management System (lab 03)\Library Management System (lab 03)\obj\Debug\Library_Management_System__lab_03_.Form1.resources
+C:\Users\Asus\Desktop\OOP_200042103\Library Management System (lab 03)\Library Management System (lab 03)\obj\Debug\Library_Management_System__lab_03_.Properties.Resources.resources
+C:\Users\Asus\Desktop\OOP_200042103\Library Management System (lab 03)\Library Management System (lab 03)\obj\Debug\Library Management System (lab 03).csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\OOP_200042103\Library Management System (lab 03)\Library Management System (lab 03)\obj\Debug\Library Management System (lab 03).csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\OOP_200042103\Library Management System (lab 03)\Library Management System (lab 03)\obj\Debug\Library Management System (lab 03).exe
+C:\Users\Asus\Desktop\OOP_200042103\Library Management System (lab 03)\Library Management System (lab 03)\obj\Debug\Library Management System (lab 03).pdb
