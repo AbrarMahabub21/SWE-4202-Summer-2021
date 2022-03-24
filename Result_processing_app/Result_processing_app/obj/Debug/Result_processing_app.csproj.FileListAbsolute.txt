@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\OOP_200042103\Result_processing_app\Result_processing_app\bin\Debug\Result_processing_app.exe.config
+C:\Users\Asus\Desktop\OOP_200042103\Result_processing_app\Result_processing_app\bin\Debug\Result_processing_app.exe
+C:\Users\Asus\Desktop\OOP_200042103\Result_processing_app\Result_processing_app\bin\Debug\Result_processing_app.pdb
+C:\Users\Asus\Desktop\OOP_200042103\Result_processing_app\Result_processing_app\obj\Debug\Result_processing_app.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\OOP_200042103\Result_processing_app\Result_processing_app\obj\Debug\Result_processing_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\OOP_200042103\Result_processing_app\Result_processing_app\obj\Debug\Result_processing_app.Form1.resources
+C:\Users\Asus\Desktop\OOP_200042103\Result_processing_app\Result_processing_app\obj\Debug\Result_processing_app.Properties.Resources.resources
+C:\Users\Asus\Desktop\OOP_200042103\Result_processing_app\Result_processing_app\obj\Debug\Result_processing_app.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\OOP_200042103\Result_processing_app\Result_processing_app\obj\Debug\Result_processing_app.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\OOP_200042103\Result_processing_app\Result_processing_app\obj\Debug\Result_processing_app.exe
+C:\Users\Asus\Desktop\OOP_200042103\Result_processing_app\Result_processing_app\obj\Debug\Result_processing_app.pdb
